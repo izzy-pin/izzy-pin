@@ -1,6 +1,6 @@
 ## Hi, I’m Izzy 	:wave: 👩🏻‍💻
-- 🌱 I'm a recent Northcoders bootcamp graduate and aspiring Junior Full Stack Software Developer.
-- 💡 A Fine Art graduate who pivoted into software development, I enjoy applying creative solutions to tech problems and tech solutions to creative problems.
+- 🌱 I'm a recent Northcoders bootcamp graduate and Junior Full Stack Developer.
+- 💡 A Fine Art graduate who pivoted into software development, I enjoy applying creative solutions to tech problems and finding tech solutions for creative problems.
 - ⚡ Currently working on my social news app, news rn, a full stack web application with CRUD operations. 
     - 👇 See my pinned repos below to find out more about this PERN stack project.
 - 🔎 Find me on [LinkedIn](https://www.linkedin.com/in/isabel-pinder-458598177/).
